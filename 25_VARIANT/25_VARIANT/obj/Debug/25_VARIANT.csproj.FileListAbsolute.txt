@@ -1,0 +1,16 @@
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\bin\Debug\25_VARIANT.exe.config
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\bin\Debug\25_VARIANT.exe
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\bin\Debug\25_VARIANT.pdb
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT.csproj.AssemblyReference.cache
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\MainWindow.g.cs
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\App.g.cs
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT_MarkupCompile.cache
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT_MarkupCompile.lref
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\MainWindow.baml
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT.g.resources
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\_25_VARIANT.Properties.Resources.resources
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT.csproj.GenerateResource.cache
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT.csproj.CoreCompileInputs.cache
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT.exe
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT.pdb
+C:\Users\hackertron\Desktop\Щипицин\25_VARIANT\25_VARIANT\obj\Debug\25_VARIANT.exe.config
